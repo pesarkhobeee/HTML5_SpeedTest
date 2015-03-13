@@ -1,0 +1,12 @@
+Remove From GUI 2 Final :
+<link rel="stylesheet" href="stylesheets/style.css">
+Modified script.js
+
+From Core:
+	remove var speed; in line 77 main.js
+	
+Add
+	var speed;
+	var rawModule;
+	var module;
+to end of script.js for Globalize Core method!
